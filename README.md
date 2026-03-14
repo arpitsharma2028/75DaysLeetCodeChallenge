@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
