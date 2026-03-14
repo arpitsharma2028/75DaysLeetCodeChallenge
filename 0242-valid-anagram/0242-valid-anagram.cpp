@@ -9,7 +9,6 @@ public:
         }
         for(int i = 0 ; i < s.size() ; i++){
             if(m1[s[i]] != m2[s[i]])return false;
-            if(m1[t[i]] != m2[t[i]])return false;
         }
         return true;
     }
