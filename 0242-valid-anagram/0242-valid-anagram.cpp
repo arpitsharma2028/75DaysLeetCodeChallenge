@@ -12,6 +12,5 @@ public:
             if(m1[t[i]] != m2[t[i]])return false;
         }
         return true;
-
     }
 };
