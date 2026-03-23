@@ -76,4 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
