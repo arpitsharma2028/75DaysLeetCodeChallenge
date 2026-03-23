@@ -1,4 +1,5 @@
 // brute Force
+// TC -> O(N log(N))
 /*
     map -> store nums[i] with its frequency
     store nums[i],frequency pair in 2D array in decreasing order of frequency
