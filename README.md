@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 ## Depth-First Search
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
