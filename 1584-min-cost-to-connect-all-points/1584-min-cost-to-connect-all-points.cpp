@@ -15,6 +15,7 @@ public:
                 for(int i = 0 ; i < V ; i++){
                     if(i == u)continue;
                     int wt = abs(graph[i][0] - graph[u][0]) + abs(graph[i][1] - graph[u][1]);
+                    if(!MST_SET[i])
                     pq.push({wt , i});
                 }
             }
