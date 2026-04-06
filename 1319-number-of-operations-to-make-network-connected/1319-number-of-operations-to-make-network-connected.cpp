@@ -1,8 +1,9 @@
 class Solution {
-public:
+    class DSU{
+    public:
     vector<int>par;
     vector<int>rank;
-    void DSU(int n){
+    DSU(int n){
         par.resize(n);
         rank.resize(n);
         for(int i = 0 ; i < n ; i++){
@@ -26,18 +27,20 @@ public:
             par[ParY] = ParX;
         }
     }
+    };
+public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         int comp = n;
         if (connections.size() < n-1)return -1;
-        DSU(n);
+        DSU dsu(n);
         for(int i = 0 ; i < connections.size() ; i++){
             int u = connections[i][0] , v = connections[i][1];
-            int ParU = findUltimatePar(u);
-            int ParV = findUltimatePar(v);
+            int ParU = dsu.findUltimatePar(u);
+            int ParV = dsu.findUltimatePar(v);
 
             if(ParU != ParV){
                 comp-- ;
-                unionByRank(u,v);
+                dsu.unionByRank(u,v);
             }
         }  
         return comp-1;
