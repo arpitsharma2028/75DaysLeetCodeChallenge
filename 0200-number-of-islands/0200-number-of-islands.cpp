@@ -12,7 +12,33 @@ public:
         dfs(i-1 , j , graph , vis);
         // left
         dfs(i , j-1 , graph , vis);
+    }
+    void bfs(int i , int j , vector<vector<char>>&graph,vector<vector<bool>>&vis){
+        vector<vector<int>>directions = {{1,0} , {0,1} , {-1,0} , {0,-1}};
+        int m = graph.size() , n = graph[0].size();
+        auto isSafe =  [&](int x , int y){
+            return (x >= 0 && y >= 0 && x < m && y < n);
+        };
 
+        // bfs -> queue -> src  -> push all its unvisited neighbours in it.
+        queue<pair<int,int>>q;
+        q.push({i,j});
+        vis[i][j] = true;
+
+        while(!q.empty()){
+            auto [x,y] = q.front();
+            q.pop();
+            for(auto dir : directions){
+                int x_ = dir[0];
+                int y_ = dir[1];
+                int x_neigh = x + x_;
+                int y_neigh = y+y_;
+                if(isSafe(x_neigh,y_neigh) && !vis[x_neigh][y_neigh] && graph[x_neigh][y_neigh] == '1'){
+                    q.push({x_neigh,y_neigh});
+                    vis[x_neigh][y_neigh] = true;
+                }
+            }
+        }
     }
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size() , n = grid[0].size();
@@ -21,7 +47,8 @@ public:
         for(int i = 0 ; i < m ; i++){
             for(int j = 0 ; j < n ; j++){
                 if(!vis[i][j] && grid[i][j] == '1'){
-                    dfs(i,j,grid,vis);
+                    bfs(i,j,grid,vis);
+                    // dfs(i,j,grid , vis);
                     cnt++;
                 }
             }
