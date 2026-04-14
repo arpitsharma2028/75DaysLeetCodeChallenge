@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
