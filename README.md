@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [1710-maximum-units-on-a-truck](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
