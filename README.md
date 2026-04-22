@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -303,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
