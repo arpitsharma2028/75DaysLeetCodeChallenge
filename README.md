@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -334,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
