@@ -8,6 +8,8 @@ public:
         }
         return true;
     }
+
+    
     bool helper(int row , int col,vector<vector<char>>& board , int n){
         if(col >= n)row++ , col = 0;
         if(row >= n )return true;
