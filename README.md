@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
+| [0977-squares-of-a-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
