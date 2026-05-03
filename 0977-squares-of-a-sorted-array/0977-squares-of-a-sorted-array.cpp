@@ -1,22 +1,16 @@
 class Solution {
 public:
-    // with extra space
-    
     vector<int> sortedSquares(vector<int>& nums) {
     int n = nums.size();
-    vector<int> result(n);
-    int left = 0;
-    int right = n - 1;
-    
-    for (int i = n - 1; i >= 0; i--) {
-        if (abs(nums[left]) > abs(nums[right])) {
-            result[i] = nums[left] * nums[left];
-            left++; 
-        } else {
-            result[i] = nums[right] * nums[right];
-            right--; 
-        }
-    }
-    return result;
+    int mid = 0;
+
+    while(mid<n && nums[mid] <= 0)mid++ ;
+    // reverse vector till mid => make array in incresing order sorting for -ve element => final result like -1 -2 -3
+    for(int i = 0 ; i < n ; i++)nums[i]*= nums[i];
+    reverse(nums.begin(), nums.begin() + mid);
+
+    // 4. In-place merge the two sorted halves: [0, mid) and [mid, n)
+    inplace_merge(nums.begin(), nums.begin() + mid, nums.end());
+    return nums;
     }
 };
