@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
