@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // copied from gemini
+    // copied from gemini but solve after exam
     string decodeString(string s) {
         stack<int> countStack;
         stack<string> stringStack;
