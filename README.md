@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
