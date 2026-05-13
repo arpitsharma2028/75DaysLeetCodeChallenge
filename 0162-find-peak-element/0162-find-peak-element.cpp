@@ -8,7 +8,7 @@ public:
            if(mid+1 < n && nums[mid] < nums[mid+1])st = mid+1;
            else end = mid-1;
         }
-        return end+1;
+        return st;
     }
     int findPeakElement(vector<int>& nums) {
         return peakEl(nums) ;
