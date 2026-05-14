@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
