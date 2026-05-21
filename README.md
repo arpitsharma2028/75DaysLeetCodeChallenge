@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
@@ -400,12 +403,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
