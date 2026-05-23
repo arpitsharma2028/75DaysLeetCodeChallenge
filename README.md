@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
