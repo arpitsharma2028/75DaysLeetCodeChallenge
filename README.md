@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
