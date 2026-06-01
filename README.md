@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
