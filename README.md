@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
