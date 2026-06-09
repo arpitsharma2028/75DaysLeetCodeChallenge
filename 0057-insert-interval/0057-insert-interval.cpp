@@ -21,7 +21,6 @@ public:
             end = max(intervals[i][1] , end);
             i++;
         }
-        cout<<st<<" "<<end;
         ans.push_back({st,end});
         for(i ; i < n ; i++)ans.push_back(intervals[i]);
         return ans;
