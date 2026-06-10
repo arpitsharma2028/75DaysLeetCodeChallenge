@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/arpitsharma2028/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
