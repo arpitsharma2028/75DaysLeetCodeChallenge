@@ -19,7 +19,7 @@ public:
         auto isSafe =  [&](int x , int y){
             return (x >= 0 && y >= 0 && x < m && y < n);
         };
-
+            
         // bfs -> queue -> src  -> push all its unvisited neighbours in it.
         queue<pair<int,int>>q;
         q.push({i,j});
