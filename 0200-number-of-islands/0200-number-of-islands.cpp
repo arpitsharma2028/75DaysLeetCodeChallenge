@@ -33,7 +33,7 @@ public:
                 int y_neigh = y+y_;
                 if(isSafe(x_neigh,y_neigh) && graph[x_neigh][y_neigh] == '1'){
                     q.push({x_neigh,y_neigh});
-                    graph[x_neigh][y_neigh] = '0';
+                    graph[x_neigh][y_neigh] = '0'; // work as visited
                 }
             }
         }
